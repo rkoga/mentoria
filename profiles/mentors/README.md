@@ -6,6 +6,11 @@
 
 * [Diego Malone](profiles/diegomalone.md)
 
+## Arquitetura
+
+* [Rafael Koga](profiles/rafael_koga.md)
+
+
 ## Back End
 
 * [Ademílson F. Tonato](profiles/ademilson_tonato.md)
@@ -119,6 +124,8 @@
 ## Agile e Startups
 
 * [Evaldo Barbosa](profiles/evald-barbosa.md)
+* [Rafael Koga](profiles/rafael_koga.md)
+
 
 ## Python
 
